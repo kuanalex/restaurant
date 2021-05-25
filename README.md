@@ -1,5 +1,5 @@
-# Restaurant page
+#restaurant
 
-Restaurant page created with HTML, CSS and JS.
+This project demonstrates knowledge of html, css, and javascript
 
-[Live Demo](https://kuanalex.github.io/restaurant/) :point_left:
+Check out a demo of this project here: https://kuanalex.github.io/restaurant/
